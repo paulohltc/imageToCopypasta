@@ -1,1 +1,3 @@
 # imageToTwitchSpam
+
+TODO: write readme
