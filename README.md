@@ -1,3 +1,3 @@
-# imageToTwitchSpam
+# imageToCopypasta
 
 TODO: write readme
