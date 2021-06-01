@@ -22,7 +22,7 @@ pip install opencv-python
 ## Usage
 
 ```bash
-python -ht ht -lt lt -g g
+python copypasta -ht ht -lt lt -g g
 ```
 
 In where "ht" is the high threshold value of intensity gradient, "lt" is the low threshold value gradient and "g" for the grayscale you want to highlight (either 0 or 255, default is 0).
@@ -30,6 +30,6 @@ In where "ht" is the high threshold value of intensity gradient, "lt" is the low
 In the example used in "output.txt", it was used these parameters:
 
 ```bash
-python -ht 50 -lt 150 -g 255
+python copypasta -ht 50 -lt 150 -g 255
 ```
 
